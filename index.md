@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/Joaosilgo/CBD-AdventureWor
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Transformation 
+![Image]( https://raw.githubusercontent.com/Joaosilgo/CBD-AdventureWorks-e-comerce/master/Projeto_CBD/Anexos/MixData_Schema.JPG) 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
