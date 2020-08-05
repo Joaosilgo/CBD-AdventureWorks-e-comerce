@@ -8,27 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Image](https://raw.githubusercontent.com/Joaosilgo/CBD-AdventureWorks-e-comerce/master/Projeto_CBD/MER/MER.png)
 
-# Header 1
-## Header 2
-### Header 3
+For more details see [MER](https://raw.githubusercontent.com/Joaosilgo/CBD-AdventureWorks-e-comerce/master/Projeto_CBD/MER/MER.png).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Backups
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joaosilgo/CBD-AdventureWorks-e-comerce/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
