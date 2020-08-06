@@ -14,7 +14,7 @@ através da linguagem T-SQL utilizando o IDE SQL SERVER Management Studio 2018.
 ![Image]( https://raw.githubusercontent.com/Joaosilgo/CBD-AdventureWorks-e-comerce/master/Projeto_CBD/Anexos/MixData_Schema.JPG) 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To This 👇
 
 ![Image](https://raw.githubusercontent.com/Joaosilgo/CBD-AdventureWorks-e-comerce/master/Projeto_CBD/MER/MER.png)
 
