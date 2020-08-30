@@ -1,6 +1,9 @@
 ## CBD-AdventureWorks-e-comerce
 
 
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Joaosilgo/CBD-AdventureWorks-e-comerce)
+
 O presente projeto relativo á Unidade Curricular de Complementos de Base de Dados (CBD), destina-se ao
 desenho e á implementação e restruturação de uma Base de Dados de suporte a um e e-comerce de uma empresa de material de ciclismo, AdventureWorks.
 Dado este tema, decidi assim replicar a base de dados de suporte e restruturar a mesma fazendo uma migração de dados.
